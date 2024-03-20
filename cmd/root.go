@@ -24,4 +24,5 @@ func Execute() {
 
 func init() {
 	rootCmd.AddCommand(commandHandlers.CreateCleanCommand())
+	rootCmd.AddCommand(commandHandlers.CreateGlobExeCommand())
 }
