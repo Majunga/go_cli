@@ -3,7 +3,7 @@ Crappy tool for doing repeative and annoying task
 To install:
 
 ```
-go install github.com/Majunga/go_cli@v0.0.3
+go install github.com/Majunga/go_cli@v0.0.4
 ```
 
 
